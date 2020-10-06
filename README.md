@@ -76,7 +76,7 @@ Source code of **Learning JavaScript Data Structures and Algorithms** book, thir
 
 <img src="examples/examples-screenshot.png">
 
-Happy Coding!
+Happy Coding!!
 
 ## Other editions
 
